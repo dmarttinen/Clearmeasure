@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Clearmeasure": {
+      "commandName": "Project",
+      "commandLineArgs": "asdf"
+    }
+  }
+}

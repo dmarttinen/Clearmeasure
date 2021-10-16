@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.5</Version>
+    <Authors>Dale</Authors>
+    <Description>Contains the Program.Main(string[] args) function.
+Runs the fizzbuzz program from 1 to 100 by default. If given an input, it will verify the input is an integer, and run from 1 to the input value.</Description>
+  </PropertyGroup>
+
+</Project>
